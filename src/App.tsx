@@ -1,5 +1,4 @@
 import { useCallback, useEffect, useState } from 'react'
-import './App.css'
 import { HangmanDrawing } from './HangmanDrawing'
 import { HangmanWord } from './HangmanWord'
 import { Keyboard } from './Keyboard'
