@@ -16,6 +16,11 @@
 
 ![Home page](https://github.com/muradtaghiyev05/hangman-react-typescript/blob/main/hangman-game.jpg "Hangman Game Preview")
 
+#### The common funtionalities are:-
+
+- The player have 6 chances until finding the correct word
+- The player can use both his keyboard and mouse to enter the letter
+- The player can start again by refreshing the page
 
 ### Built With
 
